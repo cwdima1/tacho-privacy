@@ -1,6 +1,6 @@
 {                                                                                                                          
     "enabled": true,                                             
-    "max_per_day": 5,                                                                                                        
+    "max_per_day": 99,                                                                                                        
     "ads": [                                                     
       {                                                                                                                      
         "active": true,

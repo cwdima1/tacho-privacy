@@ -1,22 +1,14 @@
-{
-  "enabled": false,
-  "max_per_day": 3,
-  "ads": [
-    {
-      "active": true,
-      "title": "DKV Fuel Card",
-      "subtitle": "Save on diesel across Europe",
-      "image_url": "",
-      "link_url": "https://www.dkv-mobility.com",
-      "bg_color": "#FF6B00"
-    },
-    {
-      "active": true,
-      "title": "Trans.eu — freight loads",
-      "subtitle": "Find loads on 180,000 routes",
-      "image_url": "",
-      "link_url": "https://www.trans.eu",
-      "bg_color": "#007AFF"
-    }
-  ]
-}
+{                                                                                                                          
+    "enabled": true,                                                                                                         
+    "max_per_day": 5,                                            
+    "ads": [
+      {
+        "active": true,
+        "title": "TruckerVlog — Далекобійник у рейсі",
+        "subtitle": "Реальні рейси по Європі. Дивись на TikTok →",                                                           
+        "image_url": "",
+        "link_url": "https://www.tiktok.com/@cwdima",                                                                        
+        "bg_color": "#FF0050"                                    
+      }                                                                                                                      
+    ]                                                            
+  }

@@ -1,14 +1,15 @@
 {                                                                                                                          
-    "enabled": true,                                                                                                         
-    "max_per_day": 5,                                            
-    "ads": [
-      {
+    "enabled": true,                                             
+    "max_per_day": 5,                                                                                                        
+    "ads": [                                                     
+      {                                                                                                                      
         "active": true,
-        "title": "TruckerVlog — Далекобійник у рейсі",
+        "id": "truckvlog",                                                                                                   
+        "title": "TruckerVlog — Далекобійник у рейсі",           
         "subtitle": "Реальні рейси по Європі. Дивись на TikTok →",                                                           
-        "image_url": "",
+        "image_url": "",                                                                                                     
         "link_url": "https://www.tiktok.com/@cwdima",                                                                        
-        "bg_color": "#FF0050"                                    
-      }                                                                                                                      
-    ]                                                            
+        "bg_color": "#FF0050"                                                                                                
+      }                                                          
+    ]                                                                                                                        
   }
